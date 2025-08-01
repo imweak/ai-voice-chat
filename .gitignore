@@ -2,6 +2,7 @@
 /node_modules
 /.pnp
 .pnp.js
+frontend/node_modules/
 
 # Testing
 /coverage
@@ -35,3 +36,16 @@ next-env.d.ts
 
 # Supabase
 .temp/ 
+
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.zip
+*.tar.gz
+.DS_Store

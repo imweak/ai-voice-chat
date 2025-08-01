@@ -1,0 +1,12 @@
+# === Web Framework ===
+fastapi
+uvicorn[standard]
+
+# === External APIs ===
+elevenlabs
+supabase
+
+# === Core Dependencies ===
+pydantic
+python-dotenv
+python-multipart
